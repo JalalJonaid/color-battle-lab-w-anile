@@ -6,6 +6,10 @@ function App() {
     <div>
       <header>
         <h1>Color Battle</h1>
+        <p>Anile Choice</p>
+        <p>Anile</p>
+        <p>Anile</p>
+
       </header>
     </div>
   );
